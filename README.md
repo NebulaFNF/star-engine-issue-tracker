@@ -1,2 +1,2 @@
-# star-engine-issue-tracker
-Use this repository for reporting issues on Star Engine.
+# Star Engine - Issue Tracker
+Please use this repository to report bugs for Star Engine.
