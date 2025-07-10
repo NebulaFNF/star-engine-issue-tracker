@@ -1,0 +1,9 @@
+name: Feature Request
+description: 'No, I am not going to add note multipliers to the engine. It will ruin the entire purpose of it.'
+labels: [enhancement]
+body:
+  - type: textarea
+    attributes:
+      label: What feature do you want to get added on the engine?
+    validations:
+      required: true
